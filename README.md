@@ -27,3 +27,4 @@
 | Jump back to the previous positions | Ctrl + o       |
 | Delete a word a head                | dw             |
 | Delete a word a tail                | db             |
+| Select a word a head                | viw            |
