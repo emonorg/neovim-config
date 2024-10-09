@@ -1,9 +1,9 @@
 return {
   {
-    "morhetz/gruvbox",
+    "Mofiqul/vscode.nvim",
     priority = 100,
     config = function()
-      vim.cmd([[colorscheme gruvbox]])
+      vim.cmd([[colorscheme vscode]])
     end,
   },
 }
